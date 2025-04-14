@@ -1,0 +1,28 @@
+table, th, td, caption{
+      border: 1px solid #5f5f5f;
+      text-align: center;
+      border-collapse: collapse;
+      font-family: Georgia, 'Times New Roman', Times, serif;  
+      
+      th{
+        background-color: aqua;
+        text-align: center;
+        padding: 20px;
+
+      }
+      td:hover{
+        background-color:rgb(55, 205, 97);
+        
+        
+
+      }
+      td{
+        background-color: blueviolet;
+        padding: 20px;
+      }
+      caption{
+        background-color: aquamarine;
+        font-size: 35px;
+        padding: 20px;
+      }
+}
